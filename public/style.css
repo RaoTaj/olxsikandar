@@ -1,0 +1,262 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.olx img{
+    width: 40px;
+}
+
+nav {
+    width: 100%;
+    background: white;
+
+}
+
+nav ul {
+    margin: 0;
+    padding: 0 0 0 150px;
+    display: flex;
+    margin-top: -25px;
+    list-style: none;
+    margin-left: -90px;
+    text-decoration: none;
+    
+}
+
+nav ul li a{
+    color: black;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: none;
+}
+
+nav ul li a i {
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+.div {
+    margin-top: 20px;
+}
+.olx-black img {
+        width: 100px;
+        margin-top: 10px;
+        height: 70px;
+}
+
+.country {
+    margin-left: 50px;
+    width: 300px;
+    height: 50px;
+    color: grey;
+    border: 1px solid black;
+}
+
+
+.div input {
+    margin-left: 15px ;
+    width: 500px;
+    height: 50px;
+    color: grey;
+    border: 1px solid black;
+}
+
+.div .btn {
+    border: none;
+    background: rgb(21, 21, 48);
+    height: 51px;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: rgb(21, 21, 48);
+
+}
+
+
+
+.play i {
+    padding-left: 15px ;
+}
+
+.bottom-box {   
+    margin-top: -15px;
+    width: 100%;
+    background: rgb(22, 33, 36);
+    height: 65px;
+}
+
+.bottom-box p {
+    color: rgb(255, 255, 255);
+    float: right;
+    padding-top: 20px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.img-plays {
+    width: 100%;
+}
+
+.div {
+    width: 100%;
+    
+}
+
+.btn a i {
+    
+    color: white;
+    padding-top: 10px;
+}
+
+#btn-mess i {
+    margin-left: 20px;
+    color: black;
+    width: 50px;
+}
+
+.div #notification i {
+    color: black;
+    margin-right: 30px;
+}
+
+.div .man {
+    width: 60px;
+    height: 40px;
+    margin-left: -10px;
+    margin-bottom: 10px;
+}
+
+.div .sell {
+    width: 90px;
+}
+
+.categories h6 {
+    margin-top: 10px;
+    font-weight: bold   ;
+}
+
+.categories ul {
+    text-decoration: none;
+}
+.categories ul li a {
+        
+    margin-left: 0px;
+    padding-right: 10px;
+    color: black;
+    
+}
+
+.categories ul li a:hover {
+    color: rgb(100, 163, 165);
+    
+}
+
+
+.categories ul .mp {
+    margin-left: 150px;
+ 
+}
+
+.header-banner {
+    margin-top: 20px;
+}
+
+.container {
+    margin-top: 15px;
+}
+
+.card:hover {
+
+    border: 10px solid yellow;
+
+}
+
+
+.row {
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+
+/* BUTTON LOAD MORE */
+
+
+button {
+    width: 100%;
+}
+
+.btn-art .btn {
+    background: rgb(255, 255, 255) ;
+    color: black;
+    display: block;
+    margin: auto;
+    justify-content: center;
+    margin-top: 70px;
+    width: 150px;
+    height: 70px;
+    font-weight:500;
+    border: 2px solid black ;
+    font-size: large;
+}
+
+.btn-art .btn:hover {
+    border: 5px solid black;
+}
+
+/* TOYOTA CAR IMG */
+.subs img {
+    margin-top: 40px;
+    width: 100%;
+    height: 250px;
+}
+
+    /* BANNER-2 IMG */
+.banner img {
+
+    width: 100%;
+    margin-top: 10px;
+    
+}
+
+/* FOOTER */
+
+
+.Main_footer{
+    background-color: rgb(222, 231, 233);
+    height: 200px;
+
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1200px;
+    margin: auto;
+}
+.ft-box h2{
+    font-size: 17px;
+    margin: 10px 0 15px 0;
+    cursor: pointer;
+    font-weight: bold;
+}
+.ft-box p{
+    margin: 8px 0 8px 0;
+    color: rgb(139, 135, 135);
+    text-decoration: none;
+}
+
+.ft-box a {
+    text-decoration: none;
+}
+
+.ft-box p:hover {
+    color: black;
+    text-decoration: none;
+
+}
+
+
+
